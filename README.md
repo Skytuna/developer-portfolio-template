@@ -1,6 +1,6 @@
 # Developer Portfolio Template
 
-A project for lazy developers (like me) who postpone creating a portfolio website. Nothing too fancy yet better than nothing.
+A template to create a portfolio website. Nothing too fancy.
 
 ## Screenshots
 
