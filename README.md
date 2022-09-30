@@ -38,12 +38,12 @@ Start the server
 
 ## Theme
 
-| Color          | Default                                                          |
-| -------------- | ---------------------------------------------------------------- |
-| primary        | ![#0f162b](https://via.placeholder.com/10/0f162b?text=+) #0f162b |
-| secondary      | ![#b9ea53](https://via.placeholder.com/10/b9ea53?text=+) #b9ea53 |
-| layoutBg       | ![#121c35](https://via.placeholder.com/10/121c35?text=+) #121c35 |
-| primaryUtility | ![#23304e](https://via.placeholder.com/10/23304e?text=+) #23304e |
+| Color          | Default                                                              |
+| -------------- | -------------------------------------------------------------------- |
+| primary        | ![#0f162b](https://via.placeholder.com/15/0f162b/0f162b.png) #0f162b |
+| secondary      | ![#b9ea53](https://via.placeholder.com/15/b9ea53/b9ea53.png) #b9ea53 |
+| layoutBg       | ![#121c35](https://via.placeholder.com/15/121c35/121c35.png) #121c35 |
+| primaryUtility | ![#23304e](https://via.placeholder.com/15/23304e/23304e.png) #23304e |
 
 #### Configure Colors
 
