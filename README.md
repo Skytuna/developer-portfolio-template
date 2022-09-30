@@ -57,11 +57,6 @@ You can configure colors in `styles/global.css`
     --primaryUtility: #23304e;
 }
 ```
-
-# Developer Portfolio Template
-
-A project for lazy developers (like me) who postpone creating a portfolio website. Nothing too fancy yet better than nothing.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
