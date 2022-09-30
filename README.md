@@ -15,7 +15,7 @@ React, Next.js, TailwindCSS
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Skytuna/developer-portfolio-template.git
 ```
 
 Go to the project directory
