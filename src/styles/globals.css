@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #0f162b;
+    --secondary: #b9ea53;
+    --layoutBg: #121c35;
+    --primaryUtility: #23304e;
+}
+
+body {
+    scrollbar-width: thin;
+    overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+    background-color: var(--primary);
+}
+
+body::-webkit-scrollbar-thumb {
+    border-radius: 100px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+    background-color: var(--primaryUtility);
+}
