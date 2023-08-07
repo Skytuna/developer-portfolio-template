@@ -20,7 +20,7 @@ export const descriptions: DescriptionItem[][] = [
         { type: DescriptionsEnum.NORMAL, text: ', Turkey.' },
     ],
     [
-        { type: DescriptionsEnum.NORMAL, text: '2 years of experience of ' },
+        { type: DescriptionsEnum.NORMAL, text: '3 years of experience of ' },
         { type: DescriptionsEnum.EMPHASIS, text: 'web' },
         { type: DescriptionsEnum.NORMAL, text: ' and ' },
         { type: DescriptionsEnum.EMPHASIS, text: 'mobile' },
